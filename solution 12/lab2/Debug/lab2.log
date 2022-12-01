@@ -1,0 +1,54 @@
+﻿  Reading.c
+D:\Проекты\solution 12\lab2\Reading.c(9,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Проекты\solution 12\lab2\Reading.c(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Reading.c(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+  main.c
+D:\Проекты\solution 12\lab2\Reading.c(9,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Проекты\solution 12\lab2\Reading.c(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Reading.c(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(21,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(41,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(54,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(67,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(76,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(108,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(109,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(111,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(121,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(122,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(124,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(126,51): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Проекты\solution 12\lab2\Operations.c(155,19): warning C4101: temp_m: неиспользованная локальная переменная
+D:\Проекты\solution 12\lab2\main.c(11,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Проекты\solution 12\lab2\main.c(11,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Проекты\solution 12\lab2\main.c(11,13): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+D:\Проекты\solution 12\lab2\main.c(11,13): message : этот аргумент используется в качестве размера буфера
+  Operations.c
+D:\Проекты\solution 12\lab2\Operations.c(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(21,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(41,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(54,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(67,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(76,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(95,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(108,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(109,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(111,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(121,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(122,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(124,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\solution 12\lab2\Operations.c(126,51): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Проекты\solution 12\lab2\Operations.c(155,19): warning C4101: temp_m: неиспользованная локальная переменная
+  Создание кода...
